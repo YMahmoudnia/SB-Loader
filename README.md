@@ -4,7 +4,7 @@ SBLoader is a memory patcher to patch and execute the child process under the de
 # Description
 One of the methods of debugger detection used in malware or commercial software is parent process checking. In debugger we can use Anti-Debug plugins, but what about out of debugger ?
 
-With SBLoader you can patch process memory or run any process under explorer.exe or any desired process.
+With **SB-Loader** you can patch process memory or run any process under explorer.exe or any desired process.
 
 # Build & Installation
 This project written in C++ with microsoft foundation class in visual studio 2019. 
