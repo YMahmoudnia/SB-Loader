@@ -18,5 +18,5 @@ You don't need any extra libraries in compilation process.
 - Memory patcher
 
 # Credits
-- Yashar Mahmoudnia - https://t.me/securebyte
+- SecureByte - https://t.me/securebyte
 - Anasazi - Rohitab
